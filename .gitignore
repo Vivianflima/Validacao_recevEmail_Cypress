@@ -1,0 +1,14 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e cache
+*.log
+/cypress/videos
+/cypress/screenshots
+
+# Dependências geradas
+/node_modules
+
+# Arquivos de configuração
+cypress.json
